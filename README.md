@@ -6,8 +6,9 @@
       🌿 have learned both Mobile App & Web development
       🌿 self-learning React.js
       🌿 wanna learn Node.js
-      🌿 Reach me : woniyoon@gmail.com
       🌿 portfolio : https://woniyoon.github.io/portfolio
+      🌿 Reach me : woniyoon@gmail.com
+ 
 
 <strong>Languages & Frameworks</strong><br/>
       [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
