@@ -1,13 +1,13 @@
 <h3 align="center"> Hello from Jaewon 👋 </h3>
 
-      🌿 I'm a frontend developer based in Seoul
-      🌿 INFJ
-      🌿 a coffee lover☕️, a room escaper🏃‍♀️, a boardgamer🃏, and a reader📚
-      🌿 have learned both Mobile App & Web development
-      🌿 self-learning React.js
-      🌿 wanna learn Node.js
-      🌿 portfolio : https://woniyoon.github.io/portfolio
-      🌿 Reach me : woniyoon@gmail.com
+🌿 I'm a frontend developer based in Seoul<br>
+🌿 INFJ<br>
+🌿 a coffee lover☕️, a room escaper🏃‍♀️, a boardgamer🃏, and a reader📚<br>
+🌿 have learned both Mobile App & Web development<br>
+🌿 self-learning React.js<br>
+🌿 wanna learn Node.js<br>
+🌿 wanna see my Portfolio? [🖐](https://woniyoon.github.io/portfolio)<br>
+🌿 Reach me : woniyoon@gmail.com<br>
  
 
 <strong>Languages & Frameworks</strong><br/>
