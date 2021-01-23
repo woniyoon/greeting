@@ -4,7 +4,7 @@
 🌿 INFJ<br>
 🌿 a coffee lover☕️, a room escaper🏃‍♀️, a boardgamer🃏, and a reader📚<br>
 🌿 have learned both Mobile App & Web development<br>
-🌿 self-learning React.js<br>
+🌿 learning Vue.js<br>
 🌿 wanna learn Node.js<br>
 🌿 wanna see my Portfolio? [🖐](https://woniyoon.github.io/portfolio)<br>
 🌿 Reach me : woniyoon@gmail.com<br>
@@ -17,6 +17,8 @@
       [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
       ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
       ![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
+      [![Vue.js](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=vue.js&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+
 
   <strong>DB</strong><br/>
       ![Oracle Database](http://img.shields.io/badge/-Oracle-DD0031?style=flat-square&logo=oracle)
