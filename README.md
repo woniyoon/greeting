@@ -23,7 +23,7 @@
   <strong>DB</strong><br/>
       ![Oracle Database](http://img.shields.io/badge/-Oracle-DD0031?style=flat-square&logo=oracle)
       
-  <strong>Version Controll</strong><br/>
+  <strong>Version Control</strong><br/>
       ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
       ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
       
